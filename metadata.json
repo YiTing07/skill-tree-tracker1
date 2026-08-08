@@ -1,0 +1,6 @@
+{
+  "name": "技能樹成長與年度榮耀榜",
+  "description": "規劃區間技能任務、點亮個人技能樹、解鎖自訂完成獎勵，並產生年度榮耀成就卡。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
